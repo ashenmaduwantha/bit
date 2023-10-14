@@ -1,0 +1,14 @@
+<div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="image/cars/bmw x5.jpg" alt="" class="d-block" style="width:100%">
+      <div class="carousel-caption">
+        <h3>BMW X5</h3>
+      </div>
+    </div>
+    <div class="carousel-item active">
+    <img src="image/cars/BMW i4.jpeg" alt="" class="d-block" style="width:100%">
+      <div class="carousel-caption">
+        <h3>BMW i4</h3>
+    
+    </div>
+  </div>
